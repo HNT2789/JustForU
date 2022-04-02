@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Anh biết ngay em háo sắc mà ahihi, lớp diu chịch chịch",
   text11:
     "Mai mình cùng học giao thức an toàn mạng nha, fighting!!! chíu chíu",
-  text12: "Lớp diu chịch chịch",
+  text12: "Lớp diu chịch chịch too",
 };
 
 $(document).ready(function () {
